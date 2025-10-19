@@ -23,7 +23,7 @@ This project showcases a fully interactive Power BI dashboard designed to visual
 - Interactive filters
 
 ## 📸 Dashboard Preview
-![Sales Overview](images/SalesReport.JPG)
+[View on Power BI](![Power BI Sales Dashboard](https://raw.githubusercontent.com/erhivwor-fortune/PowerBI-Sales-Report/main/SalesReport.JPG)
 
 > *These are preview screenshots. The full interactive report is available on request.*
 
