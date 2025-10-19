@@ -22,8 +22,7 @@ This project showcases a fully interactive Power BI dashboard designed to visual
 - Interactive filters
 
 ## 📸 Dashboard Preview
-![Sales Overview](images/sales-overview.png)
-![Regional Performance](images/regional-performance.png)
+![Sales Overview](images/SalesReport.JPG)
 
 > *These are preview screenshots. The full interactive report is available on request.*
 
@@ -33,5 +32,4 @@ This project showcases a fully interactive Power BI dashboard designed to visual
 
 ## 👨‍💻 Author
 **Okiemute Erhivwor**  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR-LINKEDIN) • [GitHub](https://github.com/YOUR-GITHUB-USERNAME)
+📧 fortune.erhivwor@gmail.com
