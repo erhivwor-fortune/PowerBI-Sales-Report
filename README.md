@@ -6,7 +6,8 @@ An interactive PowerBI Sales Report Dashboard illustrating data modeling, DAX, a
 This project showcases a fully interactive Power BI dashboard designed to visualise business sales performance (sales by department, top selling products) and analyse sales trend for top products.
 
 🔗 **Private Report Link (Access Required):**  
-[View on Power BI](https://app.powerbi.com/groups/me/reports/a0b1b26f-b24e-4b70-951c-d6462a0ff8e8?ctid=dea51c67-ef23-4343-9d6c-6eb04d3029de&pbi_source=linkShare)  
+[View on Power BI](![Power BI Sales Dashboard](https://raw.githubusercontent.com/erhivwor-fortune/PowerBI-Sales-Report/main/SalesReport.JPG)
+)  
 > ⚠️ *Note: Access may require a Power BI account. Please contact me via LinkedIn or email to request access.*
 
 ---
