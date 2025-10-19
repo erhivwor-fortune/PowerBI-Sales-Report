@@ -32,5 +32,5 @@ This project showcases a fully interactive Power BI dashboard designed to visual
 - Data cleaning in Excel/CSV
 
 ## 👨‍💻 Author
-**Okiemute Erhivwor**  
+**Fortune Erhivwor**  
 📧 fortune.erhivwor@gmail.com
